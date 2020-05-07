@@ -15,3 +15,7 @@ pip3 install -r requirements.txt
 #輸入以下啟動環境
 streamlit run first_app.py
 </pre>
+
+
+streamlit教學含heroku
+https://towardsdatascience.com/quickly-build-and-deploy-an-application-with-streamlit-988ca08c7e83
